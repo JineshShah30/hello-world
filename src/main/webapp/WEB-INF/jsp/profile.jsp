@@ -19,14 +19,14 @@
 <br> 
 <div class="container">
   <div class="row">
-    <div class="col-3"> 
-      <img src="${imgSrc}" alt="Profile Page Image" align="left"/>
+    <div class="col-4"> 
+      <img src="${imgSrc}" alt="Profile Page Image" height="250" width="250" >
     </div>
-    <div class="col-9">
-      <p>
+    <div class="col">
+      
        <h3> Jinesh Shah </h3>
-       <h6> I am a Computer Science graduate student at University at Albany, New York. </h6> 
-      </p> 	  
+       <p> I am a Computer Science graduate student at University at Albany, New York.  
+       </p>	  
     </div>
     </div>
       </div>
